@@ -38,7 +38,7 @@ npm run dev
 | Borrower     | borrower@lms.com     | Borrower@123 |
 
 ## Live Demo
-- Frontend: https://loan-management-system.vercel.app
+- Frontend: https://loan-management-system-gilt.vercel.app
 - Backend: https://lms-server.onrender.com
 
 ## Assignment
