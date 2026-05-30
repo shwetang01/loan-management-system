@@ -39,7 +39,7 @@ npm run dev
 
 ## Live Demo
 - Frontend: https://loan-management-system-gilt.vercel.app
-- Backend: https://lms-server.onrender.com
+- Backend: https://loan-management-system-dqpk.onrender.com
 
 ## Assignment
 MERN + Next.js · Loan Management System
