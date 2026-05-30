@@ -38,8 +38,8 @@ npm run dev
 | Borrower     | borrower@lms.com     | Borrower@123 |
 
 ## Live Demo
-- Frontend: [Vercel link]
-- Backend: [Render link]
+- Frontend: https://loan-management-system.vercel.app
+- Backend: https://lms-server.onrender.com
 
 ## Assignment
 MERN + Next.js · Loan Management System
